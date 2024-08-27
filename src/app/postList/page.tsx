@@ -1,0 +1,14 @@
+"use client"
+
+import Header from '@/components/Header'
+import React from 'react'
+
+const PostList = () => {
+  return (
+    <div>
+      <Header/>
+    </div>
+  )
+}
+
+export default PostList
